@@ -3,18 +3,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 @font-face {
     font-family:'Nerko-One';
-    src: url("../_fonts/_nerko_one/NerkoOne-Regular.ttf");
+    src: url("../fonts/nerko_one/NerkoOne-Regular.ttf");
 }
 @font-face {
     font-family:'Permanent-Maker';
-    src: url("../_fonts/_permanent-maker/PermanentMarker-Regular.ttf");
+    src: url("../fonts/permanent-maker/PermanentMarker-Regular.ttf");
 }
 
 
 
 body {
     /*background-image: linear-gradient(to right, #cf9bdb, #5a2568);*/
-    background-image: url('../_imagens/caderno.jpg');
+    background-image: url('../imagens/caderno.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
