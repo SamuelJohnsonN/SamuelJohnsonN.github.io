@@ -14,7 +14,7 @@
 
 body {
     /*background-image: linear-gradient(to right, #cf9bdb, #5a2568);*/
-    background-image: url('../imagens/caderno.jpg');
+    background-image: url('imagens/caderno.jpg');
     background-size: 100% 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
